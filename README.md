@@ -6,3 +6,5 @@ segundo desafio - Criação de uma maquina virutal (vm) no azure, foi explorado 
 
 terceiro desafio - nessa etapa ainda focou em configuração de maquinas virtuais, foi explorado opções de imagem e tipo de arquitetura, foi passado por cima diversas opções para configuração da VM, mas próximo do final da aula
 foi criado e configurado um banco de dados SQL
+
+quarto desafio - foi explorado onde estão localizados os servidores do serviço da azure, selecionando a geografia, além disso foi criado um grupo de recursos e uma rede virtual 
