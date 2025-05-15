@@ -16,3 +16,4 @@ Sexto desafio - foi explorado a parte de IA que o ambiente Azure fornece, nessa 
 
 Sétimo desafio - Nesse desafio, foi explorada a parte de enriquecimento de IA, que abrange o reconhecimento de entidades em texto, tradução automática, visão computacional e processamento de linguagem natural. O foco principal foi a aplicação de pesquisa inteligente usando o serviço Azure IA, permitindo análises avançadas e extração de informações relevantes para melhorar a experiência e os resultados das buscas com inteligência artificial.
 
+Oitavo desafio - nessa etapa foi usado o copilot e foi explorado o azure openAI
